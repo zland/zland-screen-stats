@@ -1,0 +1,6 @@
+{
+  "name": "zland screen stats",
+  "resolveAlias": "screenStats",
+  "author": "Florian Biewald",
+  "canvasViews": ["components/ScreenStats"]
+}
